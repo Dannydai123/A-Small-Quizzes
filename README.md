@@ -6,4 +6,6 @@ not very good. didnt know what tailwind CSS attributes being used. needs to dive
 
 eliminated flowbite-react soon
 
+NOTE that FLOWBITE-REACT is react component lib, while FLOWBITE is a pure CSS/vanilla JS lib, just like bootstrap5,  but flowbite is based on tailwind
+
 
